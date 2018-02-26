@@ -1,4 +1,4 @@
-## Bilkent CS 353 
+## Sudo
 
 ### Contributers
 * Doruk Çakmakçı
