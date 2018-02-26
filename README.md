@@ -6,4 +6,4 @@
 * Sarp Aydemir
 * Umut Berk Bilgiç
 
-### This repo serves as a web-hub relating the project website and other auxiliary. 
+### This repo serves as a web-hub relating the project website, the source code and other aux. material.
