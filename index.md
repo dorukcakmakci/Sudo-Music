@@ -10,4 +10,4 @@
 The E/R diagram's latest iteration can be found [here](https://raw.githubusercontent.com/umutberkbilgic/353-Spotify-esque/master/xml/353.xml). Use draw.io (drag and drop the .xml file if you like) to view it and export it however you like.
 
 ### Complete Proposal
-The proposal will be available soon.
+The complete proposal will be available soon. For now you can view it [here](https://docs.google.com/document/d/1b_d9-IffJG52zwh21oJi_O9Vt8qlpLIIciQATaczXsU/edit?usp=sharing).
