@@ -1,6 +1,6 @@
 ## Bilkent CS 353 
 
-### Contributers
+### Contributors
 * Doruk Çakmakçı
 * Oğuz Göçmen 
 * Sarp Aydemir
